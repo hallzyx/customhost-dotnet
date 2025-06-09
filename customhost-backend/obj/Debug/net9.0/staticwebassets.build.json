@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FH2+/rcPugT1eUys/tpubzkgWDVBzikMcF4BkzuP2Gs=",
+  "Source": "customhost-backend",
+  "BasePath": "_content/customhost-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
